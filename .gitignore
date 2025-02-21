@@ -1,0 +1,15 @@
+# Node modules for frontend
+node_modules/
+
+# Python environment files
+venv/
+__pycache__/
+*.pyc
+
+# Ignore logs and environment files
+*.log
+.env
+
+# Ignore build files
+build/
+dist/
